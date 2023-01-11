@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sorting-Visualizer-using-React/static/css/main.adb03e66.chunk.css",
+    "main.js": "/Sorting-Visualizer-using-React/static/js/main.16fcbb40.chunk.js",
+    "main.js.map": "/Sorting-Visualizer-using-React/static/js/main.16fcbb40.chunk.js.map",
+    "runtime-main.js": "/Sorting-Visualizer-using-React/static/js/runtime-main.6611da4a.js",
+    "runtime-main.js.map": "/Sorting-Visualizer-using-React/static/js/runtime-main.6611da4a.js.map",
+    "static/js/2.6ec912a4.chunk.js": "/Sorting-Visualizer-using-React/static/js/2.6ec912a4.chunk.js",
+    "static/js/2.6ec912a4.chunk.js.map": "/Sorting-Visualizer-using-React/static/js/2.6ec912a4.chunk.js.map",
+    "index.html": "/Sorting-Visualizer-using-React/index.html",
+    "precache-manifest.1293d1f83bcd4650bd1c83ce7af3c893.js": "/Sorting-Visualizer-using-React/precache-manifest.1293d1f83bcd4650bd1c83ce7af3c893.js",
+    "service-worker.js": "/Sorting-Visualizer-using-React/service-worker.js",
+    "static/css/main.adb03e66.chunk.css.map": "/Sorting-Visualizer-using-React/static/css/main.adb03e66.chunk.css.map",
+    "static/media/App.css": "/Sorting-Visualizer-using-React/static/media/plain-smooth-green-wall-texture.037cd470.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6611da4a.js",
+    "static/js/2.6ec912a4.chunk.js",
+    "static/css/main.adb03e66.chunk.css",
+    "static/js/main.16fcbb40.chunk.js"
+  ]
+}
